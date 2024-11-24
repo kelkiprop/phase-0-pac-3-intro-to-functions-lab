@@ -11,7 +11,6 @@ function logShout(myString) {
 function logWhisper(myString) {
     console.log(whisper(myString));
 }
-console.log(shout(mystring));
 function sayHiToHeadphonedRoommate(myString) {
     if (myString === myString.toLowerCase()) {
         return "I can't hear you!";
