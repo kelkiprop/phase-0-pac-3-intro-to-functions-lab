@@ -29,6 +29,6 @@ function sayHiToHeadphonedRoommate(myString) {
         return "YES INDEED!";
     }
     else if (myString === "Let's have dinner together!") {
-        return "I would love to!"
+        return "I would love to!";
     }
 }
